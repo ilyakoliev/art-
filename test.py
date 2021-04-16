@@ -16,8 +16,8 @@ if go:
             y1 = random.randint(1, 12) * 200 - 50
             draw.ellipse((x1 - 25, y1 - 25, x1 + 25, y1 + 25), fill='black', outline='black')
 
-    for i in range(0, random.randint(3, 8)):
-        points = random.randint(3, 8)
+    for i in range(0, random.randint(1, 6)):
+        points = random.randint(2, 6)
         xy = []
         for j in range(0, points):
             x = random.randint(1, 12) * 200 - 100
