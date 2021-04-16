@@ -1,2 +1,2 @@
-# art-
+# art
 Is it art?
